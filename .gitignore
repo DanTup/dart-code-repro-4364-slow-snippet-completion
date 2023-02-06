@@ -1,0 +1,4 @@
+.dart_tool/
+lib/many_parts/
+lib/many_parts.dart
+pubspec.lock
